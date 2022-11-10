@@ -1,1 +1,0 @@
-With the exception of the Divder PCB mod which is a bespoke design created from scratch by Vector 3D, all the modificaions in this folder are based on the original design files published by Rat Rig. https://github.com/Rat-Rig/V-Minion
