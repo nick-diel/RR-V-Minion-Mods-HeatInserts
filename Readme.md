@@ -1,6 +1,6 @@
 
 
-# Frame Parts
+## Frame Parts
 |Part|ABS Version|Heatset Size|Notes|
 |:---|:---|:---|:---|
 |side_legs|side_legs v4|M5||
@@ -23,12 +23,12 @@
 |top_endstop_angled|||Is this part of EVA?|
 |tension_slider_6mm_belt_M3s|||Is this part of EVA?|
 
-# Electronic Enclosure
+## Electronic Enclosure
 TBD
 
-# EVA Toolhead
+## EVA Toolhead
 https://main.eva-3d.page/heat_insert/
 
 Heat Insert Size
-M3 x D4.6 x L4.0 (or 3?)
-M5 x D7.1 X L5.8
+- M3 x D4.6 x L4.0 (or 3?)
+- M5 x D7.1 X L5.8
