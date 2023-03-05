@@ -2,7 +2,7 @@
 
 ## Frame Parts
 |Part|ABS Version|Heatset Size|Notes|Status|
-|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|
 |side_legs|side_legs v4|M5||Printed|
 |z_motor_cage|z_motor_cage v6|N/A|two version v4 and v6||
 |y_motor_cage|y_motor_cage v9|N/A|||
