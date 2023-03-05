@@ -5,6 +5,8 @@
 |:---|:---|:---|:---|:---|
 |side_legs|side_legs v4|M5||Printed|
 |z_motor_cage|z_motor_cage v6|N/A|two version v4 and v6|Printed|
+|z_motor_cage_plug|No|N/A||Printed|
+|pillow_block|No|N/A||Printed|
 |y_motor_cage|y_motor_cage v9|N/A|||
 |y_idler|y_idler v15|M5|TODO||
 |y_belt_mount|y_belt_mount v7|M5|TODO||
