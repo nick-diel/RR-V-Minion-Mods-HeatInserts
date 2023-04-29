@@ -16,7 +16,7 @@
 ### 03. Y-Axis Motor & Idler Assemblies
 |Part|ABS Version|Heatset Size|Notes|Status|
 |:---|:---|:---|:---|:---|
-|y_motor_cage|y_motor_cage v9|N/A|||
+|y_motor_cage|y_motor_cage v9|N/A||Printed|
 |y_idler|y_idler v15|M5|TODO||
 
 ### 04. Y-Axis Carriage & Bed Assembly
