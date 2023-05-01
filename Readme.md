@@ -22,12 +22,12 @@
 ### 04. Y-Axis Carriage & Bed Assembly
 |Part|ABS Version|Heatset Size|Notes|Status|
 |:---|:---|:---|:---|:---|
-|y_belt_mount|y_belt_mount v7|M5|TODO||
+|y_belt_mount|y_belt_mount v7|M5||Printed|
 |y_belt_cover|No|N/A|||
-|bed_wire_guide_start|bed_wire_guide_end v4|N/A|two version v3 and v4||
+|bed_wire_guide_start|bed_wire_guide_start v3|N/A|||
 |y_belt_tensioner|y_belt_tensioner v3|N/A|two version v2 and v3||
 |y_endstop_mount|No|N/A|||
-|bed_wire_guide_end|No|N/A|||
+|bed_wire_guide_end|bed_wire_guide_end v4.stl|N/A|||
 
 ### 05. X-Axis Assembly
 |Part|ABS Version|Heatset Size|Notes|Status|
